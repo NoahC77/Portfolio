@@ -4,7 +4,7 @@
 	import Sidebar from './Sidebar.svelte'
 
 	let pic = './ProfilePicture.png'
-	let pic2 = './article.jfif'
+	let pic2 = './article.jpeg'
 	let open = false;
 	export let name;
 
