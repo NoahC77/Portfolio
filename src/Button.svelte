@@ -21,7 +21,7 @@
 	}
 
 	.primary{
-	  background: #d91b42;
+	  background: #ffaacc;
 	  color: white;
 	  box-shadow: none;
 	}
