@@ -26,10 +26,10 @@
 	
 	<img src={pic2} style="float: right; width: 30%; height 200px; padding: 20px; background-color: #93c64e;">
 	<h2>About</h2>
-	<div class="#about">This webpage is to showcase my expierence as a computer scientist. C++ and Java are the langauges I'm most proffecient with. I've used Java and C++ with git to version control and publish several projects to team members. Primarily my developer environment is vim with bash on Windows 10 WSL 2. Lastly I've worked with Gatsby, Svelte.js, SLURM, and CentOS</div>
+	<div id="about">This webpage is to showcase my expierence as a computer scientist. C++ and Java are the langauges I'm most proffecient with. I've used Java and C++ with git to version control and publish several projects to team members. Primarily my developer environment is vim with bash on Windows 10 WSL 2. Lastly I've worked with Gatsby, Svelte.js, SLURM, and CentOS</div>
 
 	<h2>OIT</h2>
-	<div class="#oit">This is the OIT section.</div>
+	<div id="oit">This is the OIT section.</div>
 </main>
 
 <svelte:head>
